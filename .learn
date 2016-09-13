@@ -1,6 +1,14 @@
 tags:
   - javascript
+  - React
+  - functional programming
 languages:
   - javascript
+unit:
+  - Components
+lesson:
+  - React Presentation Components
+topic:
+  - React
 resources:
-  - 1
+  - 3
