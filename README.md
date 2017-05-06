@@ -97,7 +97,7 @@ The predictability comes from the fact -- and here we can see the influence of t
 
 ## Resources
 - ["Software Design Patterns"](https://en.wikipedia.org/wiki/Software_design_pattern) (Wikipedia)
-- Dan Abramov, ["Presentational and Container Components"](https://medium.com/@dan_abramov/smart-and-dumb-components 7ca2f9a7c7d0#.quaiihhh3)
+- Dan Abramov, ["Presentational and Container Components"](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [Stateless Functions](https://facebook.github.io/react/docs/reusable-components.html#stateless-functions)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-presentation-components'>Presentation Components</a> on Learn.co and start learning to code for free.</p>
